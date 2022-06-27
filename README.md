@@ -1,10 +1,10 @@
 ### Hi there 👋
 Thanks for stopping by.
 
-I am a professional software engineer since. Started my career in 2020.
-I have worked extensively on Javascript / TypeScript, and familiar with golang.
+I am a software engineer / back end developer, working since 2020.
+I have worked on back end development extensively with Javascript / TypeScript, and am familiar with golang.
 I have worked with AWS services like lambda, SQS, Step functions etc. to build serverless architectures.
-I also have experience with expressJS, used it to build server applications maintained with Docker and Kubernetes.
+I also have experience with expressJS, and have used it to build applications maintained with Docker and Kubernetes.
 
 While you are here, maybe take a look at my work in pinned repositories.
 
@@ -12,10 +12,10 @@ While you are here, maybe take a look at my work in pinned repositories.
 - I am looking to collaborate on any JS/TS projects.
 - If you want to collaborate on my projects, take a look at search-service repository readme.
 
-# 
-Feel free to reach out to me on (Please mention you found me on github):
+# Contact me
+Feel free to reach out to me at (mentioning you found me on github would be nice):
 - piyusheklavya1@gmail.com
-- call/whatsapp(preferred) +91 9741926963
+- whatsapp +91 9741926963
 
 # Ask me about
 - Javascript / Typescript
